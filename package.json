@@ -1,0 +1,14 @@
+{
+  "name": "com.neocrystals.blackjack",
+  "displayName": "Neo-Crystals Blackjack (Prototype)",
+  "version": "0.1.0",
+  "description": "UdonSharp human-dealer blackjack prototype for a 10-seat Japanese cybernetic FBX table. Unverified in Unity; no wagering or real-money features.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Neo-Crystals Entertainment HUB"
+  },
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.0.0",
+    "com.vrchat.udonsharp": ">=1.0.0"
+  }
+}
